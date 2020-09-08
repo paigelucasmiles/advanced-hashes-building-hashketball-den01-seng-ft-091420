@@ -1,7 +1,7 @@
 def game_hash 
   nba_hash = {
     :home => {
-      :team_names => "Booklyn Nets",
+      :team_name => "Booklyn Nets",
       :colors => ["Black", "White"],
       :players => [
         {
@@ -62,7 +62,7 @@ def game_hash
       ]
     },
     :away => {
-      :team_names => "Charlotte Hornets",
+      :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players => [
         {
